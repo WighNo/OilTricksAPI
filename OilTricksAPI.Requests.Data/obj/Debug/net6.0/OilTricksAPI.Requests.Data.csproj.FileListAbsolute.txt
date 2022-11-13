@@ -1,0 +1,12 @@
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\bin\Debug\net6.0\OilTricksAPI.Requests.Data.deps.json
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\bin\Debug\net6.0\OilTricksAPI.Requests.Data.dll
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\bin\Debug\net6.0\OilTricksAPI.Requests.Data.pdb
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.csproj.AssemblyReference.cache
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.AssemblyInfoInputs.cache
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.AssemblyInfo.cs
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.csproj.CoreCompileInputs.cache
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.dll
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\refint\OilTricksAPI.Requests.Data.dll
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\OilTricksAPI.Requests.Data.pdb
+D:\RiderProjects\OilTricksAPI\OilTricksAPI.Requests.Data\obj\Debug\net6.0\ref\OilTricksAPI.Requests.Data.dll
